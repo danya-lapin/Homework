@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/untitled4.dir/Gnome_sort.c.o  -o untitled4 
