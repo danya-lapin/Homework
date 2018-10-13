@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Equation.dir/main.c.o  -o Equation -lm 
