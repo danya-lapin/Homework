@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danya-lapin/CLionProjects/QuickSort/quicksort.c
+malloc.h
+-
+quicksort.h
+/home/danya-lapin/CLionProjects/QuickSort/quicksort.h
+
+/home/danya-lapin/CLionProjects/QuickSort/quicksort.h
+

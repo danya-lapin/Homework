@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Telebook.dir/main.c.o CMakeFiles/Telebook.dir/telbook.c.o  -o Telebook 
