@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danya-lapin/CLionProjects/Telebook/main.c
+stdio.h
+-
+string.h
+-
+malloc.h
+-
+
+/home/danya-lapin/CLionProjects/Telebook/telbook.c
+telbook.h
+/home/danya-lapin/CLionProjects/Telebook/telbook.h
+stdio.h
+-
+string.h
+-
+
+/home/danya-lapin/CLionProjects/Telebook/telbook.h
+
